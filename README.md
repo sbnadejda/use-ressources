@@ -2,6 +2,6 @@
 
 Testing how to have an online meetup without using zoom, but using a whatsapp group instead.  
 
-The resentation is on how to use the ressources provided by R-Ladies.
+The presentation is about how to use the ressources provided by R-Ladies.
 
 
